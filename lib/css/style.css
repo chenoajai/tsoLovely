@@ -25,7 +25,7 @@ body{
 .headline p{
   text-align: center;
   color: brown;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Parisienne', cursive;
   font-size: 4em;
   /*text-shadow: 5px 5px black;*/
 }
@@ -57,4 +57,12 @@ img {
 .text-muted {
     color: teal;
 
+}
+.btn btn-primary{
+  color: pink;
+}
+
+footer{
+  color: pink;
+  font-family: 'Merienda One', cursive;
 }

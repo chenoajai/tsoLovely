@@ -15,6 +15,9 @@
   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Pacifico" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Calligraffitti|Sacramento" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merienda+One" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
 
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
