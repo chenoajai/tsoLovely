@@ -1,0 +1,60 @@
+body{
+  /*background-color: black;*/
+  background: url('http://tinyurl.com/hpo7t4h')no-repeat center center;
+  background-size:contain;
+  /*background-size: cover;*/
+  background-attachment: fixed;
+}
+/*
+#jumbotron1 {
+  background: url('http://tinyurl.com/h7c4757') no-repeat center center;
+  background-size: auto;
+  text-align: center;
+  height: 350px;
+}*/
+
+
+.headline h1{
+    text-align: center;
+    color: teal;
+    font-family: 'Sacramento', cursive;
+    font-size: 10em;
+    /*text-shadow: 5px 5px black;*/
+}
+
+.headline p{
+  text-align: center;
+  color: brown;
+  font-family: 'Sacramento', cursive;
+  font-size: 4em;
+  /*text-shadow: 5px 5px black;*/
+}
+
+img {
+  width: 100%;
+  border-radius: 30px;
+}
+
+/*========================
+       Featurettes
+========================*/
+.featurette-heading{
+  color: black;
+  font-family: 'Sacramento', cursive;
+  font-size: 4em;
+
+}
+.featurette-divider {
+        margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+/* Thin out the marketing headings */
+/*.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: rgba(191, 62, 6, 1);
+}*/
+.text-muted {
+    color: teal;
+
+}
